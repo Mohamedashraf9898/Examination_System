@@ -1,0 +1,8 @@
+10/3/2025 11:39:04 PM => Q1-  C# is an object-oriented language? (5 marks)
+10/3/2025 11:39:04 PM => Q2-  What is the size of int in C#? (5 marks)
+10/3/2025 11:39:04 PM => Q3-  Which of the following are reference types? (10 marks)
+10/3/2025 11:39:04 PM => Q4-  .NET Core is cross-platform? (5 marks)
+10/3/2025 11:39:28 PM => Q1-  C# is an object-oriented language? (5 marks)
+10/3/2025 11:39:28 PM => Q2-  What is the size of int in C#? (5 marks)
+10/3/2025 11:39:28 PM => Q3-  Which of the following are reference types? (10 marks)
+10/3/2025 11:39:28 PM => Q4-  .NET Core is cross-platform? (5 marks)
